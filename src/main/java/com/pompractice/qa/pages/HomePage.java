@@ -1,4 +1,6 @@
 package com.pompractice.qa.pages;
 
-public class HomePage {
+import com.pompractice.qa.base.TestBase;
+
+public class HomePage extends TestBase {
 }
